@@ -192,6 +192,12 @@ body {
     width: 360px;
         
 }
+.footer_top {
+    width: 100%;
+    height: 448px;
+    margin: 0;
+    background-image: url(img\subscribe.jpg);
+}
 
 .footer__bottom {
     display: flex;
