@@ -190,7 +190,35 @@ body {
 
 .advantages__item {
     width: 360px;
-        
+            
+}
+.advantages__item--img{
+    padding: 0 0 0 150px;
+    
+    }
+.advantages__item--head {
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;    
+    justify-content: center;
+    margin: 28px 0 16px 105px;    
+}
+.advantages__item--text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+}
+.footer__top {
+    width: 100%;
+    height: 448px;
+    margin: 0;
+    background-image: url(../img/subscribe.jpg);
+    display: flex;
+}
+.footer__top_left {
+    display: block;
 }
 
 .footer__bottom {
